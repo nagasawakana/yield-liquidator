@@ -53,6 +53,8 @@ cargo build --release
     --file state.json \
 ```
 
+AggrNews: MICROSTRATEGY PURCHASES 22,337 BTC ($1.5B) AT $70,194 AVG AS STRC PRODUCT GAINS TRACTION: FILING
+
 ## How it Works
 
 On each block:
