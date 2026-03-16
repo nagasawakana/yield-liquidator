@@ -43,6 +43,12 @@ The `--private-key` _must not_ have a `0x` prefix. Set the `interval` to 15s for
 ```
 # Build in release mode
 cargo build --release
+#import print(plus buybus)
+#import print(plus nervious)
+#import mother faker
+#import def long
+
+#import print(lockation)
 
 # Run it with 
 ./target/release/yield-liquidator \
